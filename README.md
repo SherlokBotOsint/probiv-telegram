@@ -56,22 +56,16 @@ Username удобен для поиска, но владелец может ег
 
 ### Можно ли пробить закрытый аккаунт?
 
-Закрытые данные недоступны законному OSINT. Можно анализировать только сведения, которые пользователь или площадка сделали публичными.
-
-### Опасно ли сообщать Telegram ID?
-
-ID не является паролем, но может использоваться как устойчивый идентификатор. Не публикуйте лишние связки ID с личными данными.
-
-## Полезные материалы
-
-- [Шерлок бот в Telegram](https://github.com/SherlokBotOsint/sherlok-bot-telegram)
-- [Бот для пробива](https://github.com/SherlokBotOsint/bot-dlya-probiva)
-- [OSINT-боты в Telegram](https://github.com/SherlokBotOsint/osint-boty-telegram)
-
-## Итог
-
-Telegram-OSINT полезен, когда строится на публичных сигналах, проверке контекста и уважении настроек приватности. [Перейти на официальный сайт Шерлок](https://sherlokk.bot).
-
 ---
 
-Материал посвящён законному поиску по открытым источникам. Не используйте OSINT для преследования, угроз, взлома, покупки утечек или публикации чужих персональных данных.
+<!-- related:start -->
+## Связанные статьи
+
+- [Пробив ТГ по username, ID и номеру](https://github.com/SherlokBotOsint/probiv-tg)
+- [Как пробить номер в Telegram законно](https://github.com/SherlokBotOsint/probit-nomer-tg)
+- [OSINT-боты в Telegram](https://github.com/SherlokBotOsint/osint-boty-telegram)
+- [Шерлок-бот в Telegram](https://github.com/SherlokBotOsint/sherlok-bot-telegram)
+- [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
+
+Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+<!-- related:end -->
