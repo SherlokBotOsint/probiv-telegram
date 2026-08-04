@@ -67,5 +67,6 @@ Username удобен для поиска, но владелец может ег
 - [Шерлок-бот в Telegram](https://github.com/SherlokBotOsint/sherlok-bot-telegram)
 - [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
 
-Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+Для комплексной проверки используйте [Запустить бота](https://sherlokk.bot/).
 <!-- related:end -->
+
